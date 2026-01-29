@@ -13,7 +13,6 @@ Instruction docs located in this file below.
 
 <p> The folders I have uploaded has everything (except the OIDv4 toolkit and it's respective CSV files) used to train YOLOv11n inside </p>
 <p> This is also written assuming that the dataset has been downloaded via OIDv4 toolkit as per the requirements. </p>
-<p> I have no idea why it replicated 2 model folders just keep them as is i guess.</p>
 
 <br>
 
