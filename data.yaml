@@ -1,0 +1,10 @@
+path: "C:/Users/thuta/Downloads/Uni/Senior Project/Image Model/dataset" #change this to your own config location
+
+train: images/train
+val: images/val
+
+nc: 3
+names: 
+  0: eraser
+  1: dice
+  2: ball
