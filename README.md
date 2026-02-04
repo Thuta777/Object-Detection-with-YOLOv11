@@ -293,6 +293,9 @@ runs/detect/train/
 The trained YOLO model is used together with the OpenCV library and a commercial webcam, although a laptop webcam can also be used. <br> 
 The file used to run the model is in the zip file along with all the other resources required. 
 
+<h2> Known Issues! </h2>
+
+Visual noise can affect the detection rate by about effectively 30 to 40%. Bright lights, reflections and object obstructions all affect the model to an extent. To effectively remedy this issue testing should be done in a clear environment (such as a white wall or a clean floor), although it will not represent real life situations. Aside from that more training should be done to continue remedying this issue. The model will be updated every run to make sure users will get the latest option available.  
 
 
 
